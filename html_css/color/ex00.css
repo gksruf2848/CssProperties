@@ -1,0 +1,16 @@
+body {
+  //color: red;
+  //color: #92a8d1;
+  color: rgb(201, 76, 76);
+  //color: rgba(201, 76, 76, 0.6);
+  //color: hsl(89, 43%, 51%);
+  //color: hsla(89, 43%, 51%, 0.6);
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}

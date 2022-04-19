@@ -1,0 +1,7 @@
+.newspaper {
+  column-count: 3;
+}
+
+h2 {
+  column-span: all;
+}
