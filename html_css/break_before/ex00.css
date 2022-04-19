@@ -1,0 +1,16 @@
+@media print {
+  h1 {
+    break-before: always;
+  }
+}
+
+@media print {
+  h1 {
+    break-before: right;
+  }
+}
+
+.region ul {
+    break-before: region;
+  }
+}

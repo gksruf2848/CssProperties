@@ -1,0 +1,29 @@
+#example1 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
+
+#example2 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+#example3 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 8px 10px red;
+}
+
+#example4 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 5px 8px blue, 10px 10px 8px red, 15px 15px 8px green;
+}
+
+#example5 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px 20px red inset;
+}

@@ -1,0 +1,16 @@
+@media print {
+  footer {
+    break-after: always;
+  }
+}
+
+@media print {
+  #toc {
+    break-after: always;
+  }
+}
+
+.region ul {
+    break-after: region;
+  }
+}

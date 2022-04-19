@@ -1,0 +1,12 @@
+@media print {
+  img {
+    display: block;
+    break-inside: avoid;
+  }
+}
+
+@media print {
+  table, ul, ol {
+    break-inside: avoid;
+  }
+}

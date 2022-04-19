@@ -1,0 +1,15 @@
+#example1 {
+  box-sizing: content-box; /* Default. The width and height properties (and min/max properties) includes only the content. Border and padding are not included */
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 10px solid blue;
+}
+
+#example2 {
+  box-sizing: border-box; /* The width and height properties (and min/max properties) includes content, padding and border */
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 10px solid blue;
+}
