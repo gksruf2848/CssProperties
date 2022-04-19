@@ -1,0 +1,10 @@
+body {
+  background-image: url('/Users/hanlim_air/Atom/CssProperties/img/chicken.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  //background-position: center;
+  //background-position: center top;
+  //background-position: bottom right;
+  //background-position: 50% 80%;
+  background-position: 50px 150px;
+}

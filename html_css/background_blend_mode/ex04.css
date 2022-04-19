@@ -1,0 +1,7 @@
+#myDIV {
+  width: 600px;
+  height: 600px;
+  background-repeat: no-repeat, repeat;
+  background-image: url("/Users/hanlim_air/Atom/CssProperties/img/hanyang.jpeg"), url("/Users/hanlim_air/Atom/CssProperties/img/hanlim.png");
+  background-blend-mode: overlay;
+}

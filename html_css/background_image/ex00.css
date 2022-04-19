@@ -1,0 +1,7 @@
+body  {
+  //background-image: url("/Users/hanlim_air/Atom/CssProperties/img/pattern.jpg");
+  background-image: url("/Users/hanlim_air/Atom/CssProperties/img/chicken.png"), url("/Users/hanlim_air/Atom/CssProperties/img/pattern.jpg");
+  //background-image: url("/Users/hanlim_air/Atom/CssProperties/img/pattern.jpg"), url("/Users/hanlim_air/Atom/CssProperties/img/chicken.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+}

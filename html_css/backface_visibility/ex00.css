@@ -1,0 +1,17 @@
+div {
+  position: relative;
+  height: 60px;
+  width: 60px;
+  background-color: red;
+  transform: rotateY(180deg);
+}
+
+#div1 {
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: hidden;
+}
+
+#div2 {
+  -webkit-backface-visibility: hidden; /* Safari */
+  backface-visibility: visible;
+}

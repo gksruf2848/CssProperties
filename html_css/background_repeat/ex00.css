@@ -1,0 +1,8 @@
+body {
+  background-image: url("/Users/hanlim_air/Atom/CssProperties/img/pattern02.png");
+  //background-repeat: repeat;
+  //background-repeat: repeat-y;
+  //background-repeat: repeat-x;
+  //background-repeat: round; /* The background-image is repeated as much as possible without clipping. The first and last image is pinned to either side of the element, and whitespace is distributed evenly between the images */
+  background-repeat: space; /* The background-image is repeated and squished or stretched to fill the space (no gaps) */
+}

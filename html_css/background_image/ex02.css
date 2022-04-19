@@ -1,0 +1,10 @@
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  //background-image: linear-gradient(red, yellow);
+  //background-image: linear-gradient(red, yellow, green);
+  //background-image: linear-gradient(red, yellow 10%, green 30%);
+  //background-image: radial-gradient(red, yellow);
+  //background-image: radial-gradient(red, yellow, green);
+  background-image: repeating-radial-gradient(red, yellow 10%, green 20%);
+}
