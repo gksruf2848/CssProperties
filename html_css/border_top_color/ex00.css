@@ -1,20 +1,9 @@
-#example1 {
-  border: 2px solid black;
-  padding: 25px;
-  background: url(/Users/hanlim_air/Atom/CssProperties/img/hanyang.jpg);
-  background-repeat: no-repeat;
-  //background-size: auto;
-  background-size: 100% 100%;
+h1 {
+  border-top-style: solid;
+  border-top-color: coral;
 }
 
-#example2 {
-  border: 2px solid black;
-  padding: 25px;
-  background: url(/Users/hanlim_air/Atom/CssProperties/img/hanyang.jpg);
-  background-repeat: no-repeat;
-  //background-size: 300px 100px;
-  //background-size: 75% 50%;
-  //background-size: cover;
-  //background-size: contain;
-  background-size: contain, cover;
+div {
+  border-style: solid;
+  border-top-color: coral;
 }
