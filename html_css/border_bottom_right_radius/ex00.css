@@ -1,0 +1,18 @@
+#example1 {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-right-radius: 25px;
+}
+
+#example2 {
+  border: 2px solid red;
+  padding: 10px;
+  border-bottom-right-radius: 50px 20px;
+}
+
+#example3 {
+  border: 2px solid red;
+  background: url(/Users/hanlim_air/Atom/CssProperties/img/pattern.jpg);
+  padding: 10px;
+  border-bottom-right-radius: 40%;
+}

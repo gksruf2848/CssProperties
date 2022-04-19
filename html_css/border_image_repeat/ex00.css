@@ -1,0 +1,31 @@
+#borderimg1 {
+  border: 15px solid transparent;
+  padding: 15px;
+  border-image-source: url(/Users/hanlim_air/Atom/CssProperties/img/border.png);
+  border-image-repeat: stretch;
+  border-image-slice: 30;
+}
+
+#borderimg2 {
+  border: 15px solid transparent;
+  padding: 15px;
+  border-image-source: url(/Users/hanlim_air/Atom/CssProperties/img/border.png);
+  border-image-repeat: repeat;
+  border-image-slice: 30;
+}
+
+#borderimg3 {
+  border: 15px solid transparent;
+  padding: 15px;
+  border-image-source: url(/Users/hanlim_air/Atom/CssProperties/img/border.png);
+  border-image-repeat: round;
+  border-image-slice: 30;
+}
+
+#borderimg4 {
+  border: 15px solid transparent;
+  padding: 15px;
+  border-image-source: url(/Users/hanlim_air/Atom/CssProperties/img/border.png);
+  border-image-repeat: space;
+  border-image-slice: 30;
+}

@@ -1,0 +1,14 @@
+h1 {
+  border-style: solid;
+  border-color: coral;
+}
+
+div {
+  border-style: solid;
+  border-color: coral;
+}
+
+div.ex {
+  border-style: solid;
+  border-color: #ff0000 #00ff00 #0000ff rgb(250,0,255);
+}

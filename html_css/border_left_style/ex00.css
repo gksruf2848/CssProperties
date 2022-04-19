@@ -1,0 +1,8 @@
+h1 {
+  border-left-style: dotted;
+}
+
+div {
+  border-style: solid;
+  border-left-style: dotted;
+}

@@ -1,0 +1,6 @@
+#borderimg {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image-source: url(/Users/hanlim_air/Atom/CssProperties/img/border.png);
+  border-image-slice: 30;
+}

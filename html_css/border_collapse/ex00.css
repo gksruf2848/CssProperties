@@ -1,0 +1,13 @@
+table, td, th {
+  border: 3px solid red;
+}
+
+#table1 {
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+
+#table2 {
+  border-collapse: collapse;
+  //border-color: blue;
+}

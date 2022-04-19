@@ -1,0 +1,9 @@
+h1 {
+  border-left-style: solid;
+  border-left-width: thin;
+}
+
+div {
+  border-style: solid;
+  border-left-width: thin;
+}

@@ -1,0 +1,20 @@
+#borderimg1 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(/Users/hanlim_air/Atom/CssProperties/img/border.png) round;
+  border-image-slice: 10%;
+}
+
+#borderimg2 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(/Users/hanlim_air/Atom/CssProperties/img/border.png) round;
+  border-image-slice: 20%;
+}
+
+#borderimg3 {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: url(/Users/hanlim_air/Atom/CssProperties/img/border.png) round;
+  border-image-slice: 30%;
+}
