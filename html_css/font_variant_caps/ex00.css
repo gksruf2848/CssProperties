@@ -1,3 +1,7 @@
-p.rtl {
-  direction: rtl;
-}
+p.normal {font-variant-caps: normal;}
+p.small {font-variant-caps: small-caps;}
+p.allsmall {font-variant-caps: all-small-caps;}
+p.petite {font-variant-caps: petite-caps;}
+p.allpetite {font-variant-caps: all-petite-caps;}
+p.unicase {font-variant-caps: unicase;}
+p.titling {font-variant-caps: titling-caps;}

@@ -1,3 +1,11 @@
-p.rtl {
-  direction: rtl;
+p.a {
+  font-style: normal;
+}
+
+p.b {
+  font-style: italic;
+}
+
+p.c {
+  font-style: oblique;
 }
