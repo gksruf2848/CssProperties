@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="ex03.css">
+</head>
+
+<body>
+  <h1>The Clearfix Hack</h1>
+
+  <p>Here, the floating image is taller than the element containing it, so it overflows outside its container:</p>
+  <div>
+    <img class="img1" src="/Users/hanlim_air/Atom/CssProperties/img/hanyang.jpg" alt="Hanyang" width="170" height="170">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+  </div>
+
+  <p style="clear:right">Add the clearfix hack to the containing element, to fix this problem:</p>
+  <div class="clearfix">
+    <img class="img2" src="/Users/hanlim_air/Atom/CssProperties/img/hanyang.jpg" alt="Hanyang" width="170" height="170">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum...
+  </div>
+
+</body>
+
+</html>

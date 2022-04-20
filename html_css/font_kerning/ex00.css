@@ -1,0 +1,5 @@
+/* Specifies that font kerning is applied */
+.ex1 { font-kerning: normal; }
+
+/* Specifies that font kerning is not applied */
+.ex2 { font-kerning: none; }

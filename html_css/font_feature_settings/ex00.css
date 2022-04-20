@@ -1,0 +1,11 @@
+/* enable small-caps */
+.ex1 { font-feature-settings: "smcp" on; }
+
+/* convert both upper and lowercase to small caps */
+.ex2 { font-feature-settings: "c2sc", "smcp"; }
+
+/* no common ligatures */
+.ex3 { font-feature-settings: "liga" 0; }
+
+/* enable automatic fractions */
+.ex4 { font-feature-settings: "frac"; }
