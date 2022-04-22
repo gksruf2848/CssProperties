@@ -1,0 +1,23 @@
+div.ex1 {
+  background-color: lightblue;
+  width: 40px;
+  overflow-x: scroll;
+}
+
+div.ex2 {
+  background-color: lightblue;
+  width: 40px;
+  overflow-x: hidden;
+}
+
+div.ex3 {
+  background-color: lightblue;
+  width: 40px;
+  overflow-x: auto;
+}
+
+div.ex4 {
+  background-color: lightblue;
+  width: 40px;
+  overflow-x: visible;
+}

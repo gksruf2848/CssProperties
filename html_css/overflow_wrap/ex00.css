@@ -1,0 +1,17 @@
+<style>
+div {
+  width: 150px;
+  border: 1px solid #000000;
+}
+
+div.a {
+  overflow-wrap: normal;
+}
+
+div.b {
+  overflow-wrap: break-word;
+}
+
+div.c {
+  overflow-wrap: anywhere;
+}

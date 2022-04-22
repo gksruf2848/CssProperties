@@ -1,0 +1,9 @@
+h2 {
+  border: 1px solid red;
+  outline: 5px dotted green;
+}
+
+div.a {
+  border: 1px solid red;
+  outline: 2px dashed blue;
+}
