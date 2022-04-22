@@ -1,0 +1,8 @@
+span {
+  background-color: yellow;
+}
+
+span.ex1 {
+  min-width: 500px;
+  display: inline-block;
+}
